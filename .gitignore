@@ -16,3 +16,6 @@ node_modules
 logs
 *.log
 .yarnclean
+
+# Local config file
+webpack/constants.js
